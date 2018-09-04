@@ -13,16 +13,20 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
-package com.example.junit5.test.basic;
+package com.example.junit5.test.springboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 /**
- * @date     09/03/18 11:08</br>
+ * @date     09/04/18 15:42</br>
  * @version  java-maven-junit5-example version(1.0)</br>
  * @author   bluetata / Sekito.Lv@gmail.com</br>
  * @since    JDK 1.8</br>
  */
-public class HelloWorld {
-
-    public String sayHelloWorld() {
-        return "Hello World";
+@SpringBootApplication
+public class Application {
+    public static void main(String[] args){
+        SpringApplication.run(Application.class, args);
     }
 }

@@ -13,16 +13,22 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
-package com.example.junit5.test.basic;
+package com.example.junit5.test.springboot;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
 /**
- * @date     09/03/18 11:08</br>
- * @version  java-maven-junit5-example version(1.0)</br>
+ * @date     09/04/18 15:50</br>
+ * @version  simulation-login version(1.0)</br>
  * @author   bluetata / Sekito.Lv@gmail.com</br>
  * @since    JDK 1.8</br>
  */
-public class HelloWorld {
+@RestController
+public class Junit5Controller {
 
-    public String sayHelloWorld() {
-        return "Hello World";
+    @GetMapping("/junit5controller")
+    public String getControllerContent() {
+        return "JUnit5 and Spring Boot Example.";
     }
 }
