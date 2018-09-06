@@ -17,11 +17,11 @@ This repository contains some examples of JUnit 5
 
 1. [Clone the repo](#1-clone-the-repo)
 
-   * [Import source code locally](#1.1-import-source-code-locally)
+   * [Import source code locally](#import-source-code-locally)
 
-      * [IntelliJ IDEA](#1.1.1-intellij-idea)
+      * [IntelliJ IDEA](#1-intellij-idea)
 
-      * [Eclipse](#1.1.1-eclipse)
+      * [Eclipse](#2-eclipse)
 
 2. [Test](#2-junit5-test)
 
@@ -48,3 +48,5 @@ Menu **File –> Import –> Maven –> Existing Maven Projects**
 Browse to your source code location
 
 Click **Finish** button to finish the importing
+
+### 2. Junit5 Test
