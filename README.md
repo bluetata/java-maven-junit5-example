@@ -23,7 +23,9 @@ This repository contains some examples of JUnit 5
 
       * [Eclipse](#2-eclipse)
 
-2. [Test](#2-junit5-test)
+2. [Run the Junit 5 Test](#2-junit5-test)
+
+3. [Test Result Report](#3-test-result-report)
 
 ### 1. Clone the repo
 
@@ -38,15 +40,65 @@ $ git clone https://github.com/bluetata/java-maven-junit5-example.git
 
 * ##### 1. IntelliJ IDEA
 
-Menu **File –> Import –> Maven –> Existing Maven Projects**
+Menu **File –> New –> Project from Exist Sources... –> Existing Maven Projects**
 
+Browse and select **pom.xml** in your source code location
+
+Then click **Next -> Next -> Next -> Finish** button to finish the importing.
 
 * ##### 2. Eclipse
 
-Menu **File –> Import –> Maven –> Existing Maven Projects**
+Menu **File –> Import –> Maven –> Existing Maven Projects**,
 
-Browse to your source code location
+Browse to your source code location,
 
-Click **Finish** button to finish the importing
+Click **Finish** button to finish the importing.
 
-### 2. Junit5 Test
+### 2. Run the Junit 5 Test
+In a terminal, run:
+
+```
+$ mvn test
+```
+
+> You can also run the test in IntelliJ IDEA: Right click in run test class and click run 'XxxXxxTest' with Coverage button.
+
+### 3. Test Result Report
+
+As the repo using *maven-surefire-report-plugin* plug, you can find the test report in **scr/target/surefire-reports** folder.
+
+##Sample output
+
+> Spring Running
+
+![](doc/source/images/spring-run.jpg)
+
+> Test Result
+
+![](doc/source/images/spring-boot-test-result.jpg)
+
+> Coverage
+
+![](doc/source/images/coverage.jpg)
+
+> Test Result Report
+
+![](doc/source/images/test-result-report.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
