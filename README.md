@@ -8,9 +8,13 @@ This repository contains some examples of JUnit 5
 
 ## Sample Code Component contains
 
-- [X] [Junit 5 Basic Test Sample](/src/test/java/com/example/junit5/test/basic) (done)
-- [X] [Junit 5 Dynamic Test Sample](/src/test/java/com/example/junit5/test/dynamic) (done)
+- [X] [Junit 5 Basic Test](/src/test/java/com/example/junit5/test/basic) (done)
+- [X] [Junit 5 Dynamic Test](/src/test/java/com/example/junit5/test/dynamic) (done)
+- [ ] [Junit 5 Assertions Test]() (doing...)
+- [ ] [Junit 5 Assumptions Test]() (doing...)
+- [ ] [Junit 5 Nested Test]() (doing...)
 - [X] [Junit 5 Spring Boot Test Sample](/src/test/java/com/example/junit5/test/springboot) (done)
+- [ ] [Jenkins + Maven integrate Junit 5 + TestNG to Test Automation]() (doing...)
 
 ## Test Steps
 > NOTE: You can choose *clone* this repo. or *Download Zip* file to local.

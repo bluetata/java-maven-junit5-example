@@ -9,8 +9,12 @@
 ## 示例代码包括
 
 - [X] [Junit 5 基本测试用例](/src/test/java/com/example/junit5/test/basic) (已实现)
-- [X] [Junit 5 进行动态测试](/src/test/java/com/example/junit5/test/dynamic) (已实现)
+- [X] [Junit 5 动态测试](/src/test/java/com/example/junit5/test/dynamic) (已实现)
+- [ ] [Junit 5 断言测试]() (doing...)
+- [ ] [Junit 5 假定测试]() (doing...)
+- [ ] [Junit 5 嵌套测试]() (doing...)
 - [X] [Junit 5 对Spring Boot项目测试用例](/src/test/java/com/example/junit5/test/springboot) (已实现)
+- [ ] [Jenkins + Maven 集成 Junit 5 + TestNG 进行自动化测试]() (做成中...)
 
 ## 测试步骤
 > NOTE: You can choose *clone* this repo. or *Download Zip* file to local.
