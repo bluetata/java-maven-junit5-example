@@ -127,6 +127,11 @@
             <version>1.2.0</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-commons</artifactId>
+            <version>1.2.0</version>
+        </dependency>
         <!-- end::tests[] -->
 
     </dependencies>
@@ -154,7 +159,6 @@
             <url>http://repo.spring.io/milestone</url>
         </pluginRepository>
     </pluginRepositories>
-
 
     <reporting>
         <plugins>

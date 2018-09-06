@@ -8,12 +8,12 @@ This repository contains some examples of JUnit 5
 
 ## Sample Code Component contains
 
-- [X] [Junit 5 Basic Test Sample](/src/main/java/com/example/junit5/test/basic)
-- [ ] [Junit 5 Dynamic Test Sample](/src/main/java/com/example/junit5/test/dynamic)
-- [X] [Junit 5 Spring Boot Test Sample](/src/main/java/com/example/junit5/test/springboot)
+- [X] [Junit 5 Basic Test Sample](/src/main/java/com/example/junit5/test/basic) (done)
+- [X] [Junit 5 Dynamic Test Sample](/src/main/java/com/example/junit5/test/dynamic) (done)
+- [X] [Junit 5 Spring Boot Test Sample](/src/main/java/com/example/junit5/test/springboot) (done)
 
 ## Test Steps
-> NOTE: You can choose clone this repo. or Download Zip file to local.
+> NOTE: You can choose *clone* this repo. or *Download Zip* file to local.
 
 1. [Clone the repo](#1-clone-the-repo)
 
@@ -67,7 +67,7 @@ $ mvn test
 
 As the repo using *maven-surefire-report-plugin* plug, you can find the test report in **scr/target/surefire-reports** folder.
 
-##Sample output
+## Sample output
 
 > Spring Running
 
@@ -86,7 +86,7 @@ As the repo using *maven-surefire-report-plugin* plug, you can find the test rep
 ![](doc/source/images/test-result-report.jpg)
 
 
-# License
+## License
 [Apache 2.0](LICENSE)
 
 
