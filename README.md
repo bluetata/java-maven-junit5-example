@@ -17,7 +17,7 @@ This repository contains some examples of JUnit 5
 
 1. [Clone the repo](#1-clone-the-repo)
 
-   * [Import source code locally](#import-source-code-locally)
+   * [Import source code locally(*if you **Download Zip** file to local*)](#import-source-code-locally)
 
       * [IntelliJ IDEA](#1-intellij-idea)
 
@@ -86,7 +86,8 @@ As the repo using *maven-surefire-report-plugin* plug, you can find the test rep
 ![](doc/source/images/test-result-report.jpg)
 
 
-
+# License
+[Apache 2.0](LICENSE)
 
 
 
