@@ -10,7 +10,7 @@ This repository contains some examples of JUnit 5
 
 - [X] [Junit 5 Basic Test](/src/test/java/com/example/junit5/test/basic) (done)
 - [X] [Junit 5 Dynamic Test](/src/test/java/com/example/junit5/test/dynamic) (done)
-- [ ] [Junit 5 Assertions Test]() (doing...)
+- [X] [Junit 5 Assertions Test](/src/test/java/com/example/junit5/test/assertions) (done)
 - [ ] [Junit 5 Assumptions Test]() (doing...)
 - [ ] [Junit 5 Nested Test]() (doing...)
 - [X] [Junit 5 Spring Boot Test Sample](/src/test/java/com/example/junit5/test/springboot) (done)
