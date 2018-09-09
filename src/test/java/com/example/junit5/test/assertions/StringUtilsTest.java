@@ -9,28 +9,31 @@ import static org.junit.jupiter.api.Assertions.*;
 /**
  * * assertions method and description.
  *
- * +-- 1. Checks that two primitives/objects are equal.
+ * +-- 1. Checks that two primitives/objects are equal. / 判断两个对象或两个原始类型是否相等
  * +-- void assertEquals(boolean expected, boolean actual)
  *
- * +-- 2. Checks that a condition is true.
+ * +-- 2. Checks that a condition is true.  / 判断给定的布尔值是否为 true
  * +-- void assertTrue(boolean condition)
  *
- * +-- 3. Checks that a condition is false.
+ * +-- 3. Checks that a condition is false. / 判断给定的布尔值是否为 false
  * +-- void assertFalse(boolean condition)
  *
- * +-- 4. Checks that an object isn't null.
+ * +-- 4. Checks that an object isn't null. / 判断给定的对象引用是否不为 null
  * +-- void assertNotNull(Object object)
  *
- * +-- 5. Checks that an object is null.
+ * +-- 5. Checks that an object is null. / 判断给定的对象引用是否为 null
  * +-- void assertNull(Object object)
  *
  * +-- 6. The assertSame() method tests if two object references point to the same object.
+ *        判断两个对象引用是否指向同一个对象
  * +-- void assertSame(object1, object2)
  *
  * +-- 7. The assertNotSame() method tests if two object references do not point to the same object.
+ *        判断两个对象引用是否指向不同的对象
  * +-- void assertNotSame(object1, object2)
  *
  * +-- 8. The assertArrayEquals() method will test whether two arrays are equal to each other.
+ *        判断两个对象或原始类型的数组是否相等
  * +-- void assertArrayEquals(expectedArray, resultArray);
  *
  * @author bluetata / Sekito.Lv@gmail.com</br>
