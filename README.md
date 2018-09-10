@@ -19,7 +19,7 @@ This repository contains some examples of JUnit 5
 - [ ] [Jenkins + Maven integrate Junit 5 + TestNG to Test Automation]() (doing...)
 
 ## Test Steps
-> NOTE: You can choose *clone* this repo. or *Download Zip* file to local.
+> NOTE: You could choose *clone* this repo., alternatively you could use the *Download Zip* button  to down code zip file to local.
 
 1. [Clone the repo](#1-clone-the-repo)
 
