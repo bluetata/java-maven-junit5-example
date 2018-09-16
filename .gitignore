@@ -59,6 +59,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 #Eclipse
-.settings
+.settings/
 /target/
 /bin/
