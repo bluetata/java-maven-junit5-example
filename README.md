@@ -23,7 +23,7 @@ This repository contains some examples of JUnit 5
 
 1. [Clone the repo](#1-clone-the-repo)
 
-   * [Import source code locally(*if you **Download Zip** file to local*)](#Import-source-code-locallyif-you-don't-usedclonecommand)
+   * [Import source code locally(*if you **Download Zip** file to local*)](#import-source-code-locally-if-you-dont-used-clone-command)
 
       * [IntelliJ IDEA](#1-intellij-idea)
 
