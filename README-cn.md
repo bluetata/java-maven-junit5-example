@@ -13,7 +13,7 @@
 - [X] [Junit 5 断言测试](/src/test/java/com/example/junit5/test/assertions) (已实现)
 - [X] [Junit 5 假定测试](/src/test/java/com/example/junit5/test/assumptions) (已实现)
 - [ ] [Junit 5 嵌套测试]() (做成中...)
-- [ ] [Junit 5 忽略/无效部分测试用例](/src/test/java/com/example/junit5/test/disable) (已实现)
+- [X] [Junit 5 忽略/无效部分测试用例](/src/test/java/com/example/junit5/test/disable) (已实现)
 - [ ] [Junit 5 异常控制测试]() (doing...)
 - [X] [Junit 5 对Spring Boot项目测试用例](/src/test/java/com/example/junit5/test/springboot) (已实现)
 - [ ] [Jenkins + Maven 集成 Junit 5 + TestNG 进行自动化测试]() (做成中...)
@@ -21,17 +21,17 @@
 ## 测试步骤
 > NOTE: You can choose *clone* this repo. or *Download Zip* file to local.
 
-1. [克隆仓库](#1-clone-the-repo)
+1. [克隆仓库](#1.-克隆仓库)
 
-   * [导入本地代码(*如果你下载 **Download Zip** 代码到本地*)](#import-source-code-locally)
+   * [导入本地代码(*如果你下载 **Download Zip** 代码到本地*)](#导入本地代码(如果你没有利用`clone`命令进行下载代码的情况))
 
-      * [IntelliJ IDEA](#1-intellij-idea)
+      * [IntelliJ IDEA](#1.-intellij-idea)
 
-      * [Eclipse](#2-eclipse)
+      * [Eclipse](#2.-eclipse)
 
-2. [运行 Junit 5 进行测试](#2-junit5-test)
+2. [运行 Junit 5 进行测试](#2.-运行-Junit-5-进行测试)
 
-3. [测试报告](#3-test-result-report)
+3. [测试报告](#3.-测试报告)
 
 ### 1. 克隆仓库
 
@@ -42,7 +42,7 @@ $ git clone https://github.com/bluetata/java-maven-junit5-example.git
 ```
 
 
-#### 导入本地代码(如果你没有利用`clone`命令进行下载代码的情况):
+#### 导入本地代码(如果你没有利用`clone`命令进行下载代码的情况)
 
 * ##### 1. IntelliJ IDEA
 
