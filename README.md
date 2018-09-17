@@ -44,7 +44,7 @@ $ git clone https://github.com/bluetata/java-maven-junit5-example.git
 
 #### Import source code locally(if you don't used`clone`command)
 
-* ##### 1. IntelliJ IDEA
+* #### 1. IntelliJ IDEA
 
 Menu **File –> New –> Project from Exist Sources... –> Existing Maven Projects**
 
@@ -52,7 +52,7 @@ Browse and select **pom.xml** in your source code location
 
 Then click **Next -> Next -> Next -> Finish** button to finish the importing.
 
-* ##### 2. Eclipse
+* #### 2. Eclipse
 
 Menu **File –> Import –> Maven –> Existing Maven Projects**,
 

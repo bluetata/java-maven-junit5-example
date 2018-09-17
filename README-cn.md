@@ -23,7 +23,7 @@
 
 1. [克隆仓库](#1-克隆仓库)
 
-   * [导入本地代码(*如果你下载 **Download Zip** 代码到本地*)](#导入本地代码(如果你没有利用-clone-命令进行下载代码的情况))
+   * [导入本地代码(*如果你下载 **Download Zip** 代码到本地*)](#导入本地代码如果你没有利用clone命令进行下载代码的情况)
 
       * [IntelliJ IDEA](#1-intellij-idea)
 
@@ -44,7 +44,7 @@ $ git clone https://github.com/bluetata/java-maven-junit5-example.git
 
 #### 导入本地代码(如果你没有利用`clone`命令进行下载代码的情况)
 
-* ##### 1. IntelliJ IDEA
+* #### 1. IntelliJ IDEA
 
 菜单栏依次点击: **File –> New –> Project from Exist Sources... –> Existing Maven Projects**
 
@@ -52,7 +52,7 @@ $ git clone https://github.com/bluetata/java-maven-junit5-example.git
 
 依次点击 **Next -> Next -> Next -> Finish** 按钮结束导入操作.
 
-* ##### 2. Eclipse
+* #### 2. Eclipse
 
 菜单栏依次点击 **File –> Import –> Maven –> Existing Maven Projects**,
 
