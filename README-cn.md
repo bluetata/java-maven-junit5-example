@@ -21,17 +21,17 @@
 ## 测试步骤
 > NOTE: You can choose *clone* this repo. or *Download Zip* file to local.
 
-1. [克隆仓库](#1.-克隆仓库)
+1. [克隆仓库](#1-克隆仓库)
 
-   * [导入本地代码(*如果你下载 **Download Zip** 代码到本地*)](#导入本地代码(如果你没有利用`clone`命令进行下载代码的情况))
+   * [导入本地代码(*如果你下载 **Download Zip** 代码到本地*)](#导入本地代码(如果你没有利用-clone-命令进行下载代码的情况))
 
-      * [IntelliJ IDEA](#1.-intellij-idea)
+      * [IntelliJ IDEA](#1-intellij-idea)
 
-      * [Eclipse](#2.-eclipse)
+      * [Eclipse](#2-eclipse)
 
-2. [运行 Junit 5 进行测试](#2.-运行-Junit-5-进行测试)
+2. [运行 Junit 5 进行测试](#2-运行-Junit-5-进行测试)
 
-3. [测试报告](#3.-测试报告)
+3. [测试报告](#3-测试报告)
 
 ### 1. 克隆仓库
 

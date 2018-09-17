@@ -23,7 +23,7 @@ This repository contains some examples of JUnit 5
 
 1. [Clone the repo](#1-clone-the-repo)
 
-   * [Import source code locally(*if you **Download Zip** file to local*)](#import-source-code-locally)
+   * [Import source code locally(*if you **Download Zip** file to local*)](#Import-source-code-locallyif-you-don't-usedclonecommand)
 
       * [IntelliJ IDEA](#1-intellij-idea)
 
@@ -42,7 +42,7 @@ $ git clone https://github.com/bluetata/java-maven-junit5-example.git
 ```
 
 
-#### Import source code locally(if you don't used `clone` command)
+#### Import source code locally(if you don't used`clone`command)
 
 * ##### 1. IntelliJ IDEA
 
