@@ -33,7 +33,7 @@ public class ApplicationTest {
     public void testGetControllerContent(){
         try {
             String message = this.restTemplate.getForObject("/junit5controller", String.class);
-            assertEquals("JUnit and Spring Boot Example.", message);
+            assertEquals("JUnit5 and Spring Boot Example.", message);
         } catch (Exception ex) {
             ex.printStackTrace();
             Assertions.fail("Fail Run <testGetControllerContent>: ", ex);
